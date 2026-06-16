@@ -1,0 +1,17 @@
+{
+  "frame_feature_order": [
+    "ear_z",
+    "p_closed",
+    "mar_z",
+    "pitch_z",
+    "yaw_z",
+    "roll_z",
+    "current_closed_duration",
+    "perclos_10s",
+    "avg_blink_duration_10s",
+    "avg_blink_amplitude_10s",
+    "avg_opening_velocity_10s",
+    "blink_frequency_10s",
+    "time_since_last_blink"
+  ]
+}
