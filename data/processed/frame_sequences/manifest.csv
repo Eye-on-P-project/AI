@@ -1,0 +1,144 @@
+﻿video_id,fold,part,subject_id,score_label,original_label,mapped_label,video_path,extension
+S001_0,Fold1,part1,01,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part1/Fold1_part1/01/0.mov,.mov
+S001_10,Fold1,part1,01,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part1/Fold1_part1/01/10.MOV,.mov
+S001_5,Fold1,part1,01,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part1/Fold1_part1/01/5.mov,.mov
+S002_0,Fold1,part1,02,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part1/Fold1_part1/02/0.mov,.mov
+S002_10,Fold1,part1,02,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part1/Fold1_part1/02/10.MOV,.mov
+S002_5,Fold1,part1,02,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part1/Fold1_part1/02/5.MOV,.mov
+S003_0,Fold1,part1,03,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part1/Fold1_part1/03/0.MOV,.mov
+S003_10,Fold1,part1,03,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part1/Fold1_part1/03/10.mov,.mov
+S003_5,Fold1,part1,03,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part1/Fold1_part1/03/5.mov,.mov
+S004_0,Fold1,part1,04,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part1/Fold1_part1/04/0.mp4,.mp4
+S004_10,Fold1,part1,04,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part1/Fold1_part1/04/10.mp4,.mp4
+S004_5,Fold1,part1,04,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part1/Fold1_part1/04/5.mp4,.mp4
+S005_0,Fold1,part1,05,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part1/Fold1_part1/05/0.MOV,.mov
+S005_10,Fold1,part1,05,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part1/Fold1_part1/05/10.MOV,.mov
+S005_5,Fold1,part1,05,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part1/Fold1_part1/05/5.MOV,.mov
+S006_0,Fold1,part1,06,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part1/Fold1_part1/06/0.mp4,.mp4
+S006_10,Fold1,part1,06,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part1/Fold1_part1/06/10.mp4,.mp4
+S006_5,Fold1,part1,06,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part1/Fold1_part1/06/5.mp4,.mp4
+S007_0,Fold1,part2,07,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part2/Fold1_part2/07/0.mp4,.mp4
+S007_10,Fold1,part2,07,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part2/Fold1_part2/07/10.mp4,.mp4
+S007_5,Fold1,part2,07,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part2/Fold1_part2/07/5.mp4,.mp4
+S008_0,Fold1,part2,08,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part2/Fold1_part2/08/0.mp4,.mp4
+S008_10,Fold1,part2,08,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part2/Fold1_part2/08/10.mp4,.mp4
+S008_5,Fold1,part2,08,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part2/Fold1_part2/08/5.mp4,.mp4
+S009_0,Fold1,part2,09,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part2/Fold1_part2/09/0.mp4,.mp4
+S009_10,Fold1,part2,09,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part2/Fold1_part2/09/10.mp4,.mp4
+S009_5,Fold1,part2,09,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part2/Fold1_part2/09/5.mp4,.mp4
+S010_0,Fold1,part2,10,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part2/Fold1_part2/10/0.MOV,.mov
+S010_10,Fold1,part2,10,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part2/Fold1_part2/10/10.MOV,.mov
+S010_5,Fold1,part2,10,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part2/Fold1_part2/10/5.MOV,.mov
+S011_0,Fold1,part2,11,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part2/Fold1_part2/11/0.mp4,.mp4
+S011_10,Fold1,part2,11,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part2/Fold1_part2/11/10.mp4,.mp4
+S011_5,Fold1,part2,11,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part2/Fold1_part2/11/5.mp4,.mp4
+S012_0,Fold1,part2,12,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part2/Fold1_part2/12/0.mp4,.mp4
+S012_10,Fold1,part2,12,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part2/Fold1_part2/12/10.mp4,.mp4
+S012_5,Fold1,part2,12,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold1_part2/Fold1_part2/12/5.mp4,.mp4
+S013_0,Fold2,part1,13,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part1/Fold2_part1/13/0.mp4,.mp4
+S013_10,Fold2,part1,13,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part1/Fold2_part1/13/10.mp4,.mp4
+S013_5,Fold2,part1,13,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part1/Fold2_part1/13/5.mp4,.mp4
+S014_0,Fold2,part1,14,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part1/Fold2_part1/14/0.mp4,.mp4
+S014_10,Fold2,part1,14,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part1/Fold2_part1/14/10.mp4,.mp4
+S014_5,Fold2,part1,14,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part1/Fold2_part1/14/5.mp4,.mp4
+S015_0,Fold2,part1,15,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part1/Fold2_part1/15/0.mp4,.mp4
+S015_10,Fold2,part1,15,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part1/Fold2_part1/15/10.mp4,.mp4
+S015_5,Fold2,part1,15,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part1/Fold2_part1/15/5.mp4,.mp4
+S016_0,Fold2,part1,16,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part1/Fold2_part1/16/0.MOV,.mov
+S016_10,Fold2,part1,16,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part1/Fold2_part1/16/10.MOV,.mov
+S016_5,Fold2,part1,16,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part1/Fold2_part1/16/5.MOV,.mov
+S017_0,Fold2,part1,17,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part1/Fold2_part1/17/0.mp4,.mp4
+S017_10,Fold2,part1,17,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part1/Fold2_part1/17/10.mp4,.mp4
+S017_5,Fold2,part1,17,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part1/Fold2_part1/17/5.mp4,.mp4
+S018_0,Fold2,part1,18,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part1/Fold2_part1/18/0.mov,.mov
+S018_10,Fold2,part1,18,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part1/Fold2_part1/18/10.mov,.mov
+S018_5,Fold2,part1,18,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part1/Fold2_part1/18/5.mov,.mov
+S019_0,Fold2,part2,19,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part2/Fold2_part2/19/0.MOV,.mov
+S019_10,Fold2,part2,19,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part2/Fold2_part2/19/10.MOV,.mov
+S019_5,Fold2,part2,19,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part2/Fold2_part2/19/5.MOV,.mov
+S020_0,Fold2,part2,20,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part2/Fold2_part2/20/0.mp4,.mp4
+S020_10,Fold2,part2,20,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part2/Fold2_part2/20/10.mp4,.mp4
+S020_5,Fold2,part2,20,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part2/Fold2_part2/20/5.MOV,.mov
+S021_0,Fold2,part2,21,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part2/Fold2_part2/21/0.MOV,.mov
+S021_10,Fold2,part2,21,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part2/Fold2_part2/21/10.MOV,.mov
+S021_5,Fold2,part2,21,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part2/Fold2_part2/21/5.MOV,.mov
+S022_0,Fold2,part2,22,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part2/Fold2_part2/22/0.MOV,.mov
+S022_10,Fold2,part2,22,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part2/Fold2_part2/22/10.MOV,.mov
+S022_5,Fold2,part2,22,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part2/Fold2_part2/22/5.MOV,.mov
+S023_0,Fold2,part2,23,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part2/Fold2_part2/23/0.mp4,.mp4
+S023_10,Fold2,part2,23,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part2/Fold2_part2/23/10.mp4,.mp4
+S023_5,Fold2,part2,23,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part2/Fold2_part2/23/5.mp4,.mp4
+S024_0,Fold2,part2,24,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part2/Fold2_part2/24/0.mp4,.mp4
+S024_10,Fold2,part2,24,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part2/Fold2_part2/24/10.mp4,.mp4
+S024_5,Fold2,part2,24,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold2_part2/Fold2_part2/24/5.mp4,.mp4
+S025_0,Fold3,part1,25,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part1/Fold3_part1/25/0.mp4,.mp4
+S025_10,Fold3,part1,25,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part1/Fold3_part1/25/10.mp4,.mp4
+S025_5,Fold3,part1,25,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part1/Fold3_part1/25/5.mp4,.mp4
+S026_0,Fold3,part1,26,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part1/Fold3_part1/26/0.mp4,.mp4
+S026_10,Fold3,part1,26,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part1/Fold3_part1/26/10.mp4,.mp4
+S026_5,Fold3,part1,26,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part1/Fold3_part1/26/5.mp4,.mp4
+S027_0,Fold3,part1,27,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part1/Fold3_part1/27/0.MOV,.mov
+S027_10,Fold3,part1,27,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part1/Fold3_part1/27/10.MOV,.mov
+S027_5,Fold3,part1,27,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part1/Fold3_part1/27/5.MOV,.mov
+S028_0,Fold3,part1,28,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part1/Fold3_part1/28/0.MOV,.mov
+S028_10,Fold3,part1,28,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part1/Fold3_part1/28/10.MOV,.mov
+S028_5,Fold3,part1,28,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part1/Fold3_part1/28/5.MOV,.mov
+S029_0,Fold3,part1,29,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part1/Fold3_part1/29/0.mp4,.mp4
+S029_10,Fold3,part1,29,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part1/Fold3_part1/29/10.mp4,.mp4
+S029_5,Fold3,part1,29,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part1/Fold3_part1/29/5.mp4,.mp4
+S030_0,Fold3,part1,30,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part1/Fold3_part1/30/0.mp4,.mp4
+S030_10,Fold3,part1,30,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part1/Fold3_part1/30/10.mp4,.mp4
+S030_5,Fold3,part1,30,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part1/Fold3_part1/30/5.mp4,.mp4
+S031_0,Fold3,part2,31,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part2/Fold3_part2/31/0.mp4,.mp4
+S031_10,Fold3,part2,31,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part2/Fold3_part2/31/10.mp4,.mp4
+S031_5,Fold3,part2,31,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part2/Fold3_part2/31/5.mp4,.mp4
+S032_0,Fold3,part2,32,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part2/Fold3_part2/32/0.mp4,.mp4
+S032_10_1,Fold3,part2,32,10_1,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part2/Fold3_part2/32/10_1.mp4,.mp4
+S032_10_2,Fold3,part2,32,10_2,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part2/Fold3_part2/32/10_2.mp4,.mp4
+S032_5,Fold3,part2,32,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part2/Fold3_part2/32/5.mp4,.mp4
+S033_0,Fold3,part2,33,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part2/Fold3_part2/33/0.mp4,.mp4
+S033_10,Fold3,part2,33,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part2/Fold3_part2/33/10.mp4,.mp4
+S033_5,Fold3,part2,33,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part2/Fold3_part2/33/5.mp4,.mp4
+S034_0,Fold3,part2,34,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part2/Fold3_part2/34/0.mov,.mov
+S034_10,Fold3,part2,34,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part2/Fold3_part2/34/10.mp4,.mp4
+S034_5,Fold3,part2,34,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part2/Fold3_part2/34/5.mov,.mov
+S035_0,Fold3,part2,35,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part2/Fold3_part2/35/0.mp4,.mp4
+S035_10,Fold3,part2,35,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part2/Fold3_part2/35/10.mp4,.mp4
+S035_5,Fold3,part2,35,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part2/Fold3_part2/35/5.mp4,.mp4
+S036_0,Fold3,part2,36,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part2/Fold3_part2/36/0.mp4,.mp4
+S036_10,Fold3,part2,36,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part2/Fold3_part2/36/10.mp4,.mp4
+S036_5,Fold3,part2,36,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold3_part2/Fold3_part2/36/5.mp4,.mp4
+S037_0,Fold4,part1,37,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part1/Fold4_part1/37/0.mov,.mov
+S037_10,Fold4,part1,37,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part1/Fold4_part1/37/10.mov,.mov
+S037_5,Fold4,part1,37,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part1/Fold4_part1/37/5.mov,.mov
+S038_0,Fold4,part1,38,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part1/Fold4_part1/38/0.mp4,.mp4
+S038_10,Fold4,part1,38,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part1/Fold4_part1/38/10.mp4,.mp4
+S038_5,Fold4,part1,38,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part1/Fold4_part1/38/5.mp4,.mp4
+S039_0,Fold4,part1,39,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part1/Fold4_part1/39/0.MP4,.mp4
+S039_10,Fold4,part1,39,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part1/Fold4_part1/39/10.MOV,.mov
+S039_5,Fold4,part1,39,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part1/Fold4_part1/39/5.MOV,.mov
+S040_0,Fold4,part1,40,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part1/Fold4_part1/40/0.mp4,.mp4
+S040_10,Fold4,part1,40,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part1/Fold4_part1/40/10.mp4,.mp4
+S040_5,Fold4,part1,40,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part1/Fold4_part1/40/5.mp4,.mp4
+S041_0,Fold4,part1,41,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part1/Fold4_part1/41/0.MP4,.mp4
+S041_10,Fold4,part1,41,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part1/Fold4_part1/41/10.MOV,.mov
+S041_5,Fold4,part1,41,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part1/Fold4_part1/41/5.mp4,.mp4
+S042_0,Fold4,part2,42,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part2/Fold4_part2/42/0.mp4,.mp4
+S042_10,Fold4,part2,42,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part2/Fold4_part2/42/10.mp4,.mp4
+S042_5,Fold4,part2,42,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part2/Fold4_part2/42/5.mp4,.mp4
+S043_0,Fold4,part2,43,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part2/Fold4_part2/43/0.mov,.mov
+S043_10,Fold4,part2,43,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part2/Fold4_part2/43/10.mov,.mov
+S043_5,Fold4,part2,43,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part2/Fold4_part2/43/5.mp4,.mp4
+S044_0,Fold4,part2,44,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part2/Fold4_part2/44/0.mov,.mov
+S044_10,Fold4,part2,44,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part2/Fold4_part2/44/10.mov,.mov
+S044_5,Fold4,part2,44,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part2/Fold4_part2/44/5.mov,.mov
+S045_0,Fold4,part2,45,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part2/Fold4_part2/45/0.mp4,.mp4
+S045_10,Fold4,part2,45,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part2/Fold4_part2/45/10.mp4,.mp4
+S045_5,Fold4,part2,45,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part2/Fold4_part2/45/5.mp4,.mp4
+S046_10,Fold4,part2,46,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part2/Fold4_part2/46/10.mov,.mov
+S047_0,Fold4,part2,47,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part2/Fold4_part2/47/0.mp4,.mp4
+S047_10,Fold4,part2,47,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part2/Fold4_part2/47/10.mp4,.mp4
+S047_5,Fold4,part2,47,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part2/Fold4_part2/47/5.mp4,.mp4
+S048_0,Fold4,part2,48,0,Alert,normal,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part2/Fold4_part2/48/0.MOV,.mov
+S048_10,Fold4,part2,48,10,Drowsy,sleepy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part2/Fold4_part2/48/10.MOV,.mov
+S048_5,Fold4,part2,48,5,Low Vigilant,drowsy,/mnt/c/WSL_Project/Senior Project/video_prepro/data/Fold4_part2/Fold4_part2/48/5.MOV,.mov

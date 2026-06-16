@@ -1,0 +1,43 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local-only raw data
+# 원본 영상과 eye crop 원본 데이터는 용량이 크므로 GitHub에 올리지 않습니다.
+/data/raw/**
+!/data/raw/
+!/data/raw/README.md
+!/data/raw/.gitkeep
+!/data/raw/videos/
+!/data/raw/videos/.gitkeep
+!/data/raw/eyes_set/
+!/data/raw/eyes_set/.gitkeep
+!/data/raw/manifests/
+!/data/raw/manifests/.gitkeep
+
+# Local temporary folders
+Senior Project/
+runs/tmp/
+logs/tmp/
+
+# Archive files generated locally
+*.zip
+*.tar
+*.tar.gz
+*.7z
